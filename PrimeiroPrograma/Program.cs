@@ -9,4 +9,4 @@ Console.WriteLine("Olá, " + nome);
 Console.WriteLine("Você tem " + idade + " anos");
 Console.WriteLine("e mora em " + cidade);
 
-Console.WriteLine("sua idade é : " + (a + b));
+Console.WriteLine("a soma é : " + (a + b));
